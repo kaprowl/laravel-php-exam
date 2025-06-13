@@ -227,7 +227,7 @@
                 if (messages.length > 0) {
                     messages.push(`และถูกรางวัลเลขท้าย 2 ตัว!`);
                 } else {
-                    messages.push(`<strong>ถูกรางวัลเลขท้าย 2 ตัว!</strong>`);
+                    messages.push(`<strong>${lotteryNumber} ถูกรางวัลเลขท้าย 2 ตัว!</strong>`);
                 }
                 foundPrize = true;
             }
