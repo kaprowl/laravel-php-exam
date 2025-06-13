@@ -23,7 +23,7 @@
 
 public/
 └── css/
-    └── lottery.css  
+│   └── lottery.css  
 </code></pre>
 
 </body>
