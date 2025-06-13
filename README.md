@@ -1,40 +1,4 @@
 <!DOCTYPE html>
-<html lang="th">
-<head>
-  <meta charset="UTF-8">
-  <title>README - ระบบสุ่มรางวัลลอตเตอรี่ Diversion</title>
-  <style>
-    body {
-      font-family: "Segoe UI", sans-serif;
-      line-height: 1.6;
-      background-color: #f9f9f9;
-      padding: 2rem;
-      max-width: 900px;
-      margin: auto;
-      color: #333;
-    }
-    h1, h2 {
-      color: #0d6efd;
-    }
-    pre {
-      background: #eee;
-      padding: 1rem;
-      border-radius: 5px;
-      overflow-x: auto;
-    }
-    code {
-      font-family: monospace;
-      color: #d63384;
-    }
-    .note {
-      background: #fff3cd;
-      border-left: 6px solid #ffecb5;
-      padding: 0.5rem 1rem;
-      margin: 1rem 0;
-      border-radius: 4px;
-    }
-  </style>
-</head>
 <body>
 
   <h1>🎯 ระบบสุ่มรางวัลลอตเตอรี่ Diversion</h1>
